@@ -41,11 +41,15 @@
   <a href="https://github.com/imissshe/gh-trending-digest">
     <img src="./profile/pin-gh-trending-digest.svg" alt="gh-trending-digest" />
   </a>
+  <a href="https://github.com/imissshe/daily-learning">
+    <img src="./profile/pin-daily-learning.svg" alt="daily-learning" />
+  </a>
 </p>
 
 <p align="center">
   把 GitHub Trending 整理成 Markdown / JSON 的零依赖 Python 小工具 · 精选收藏见 <a href="awesome-picks.md">awesome-picks.md</a><br/>
-  A dependency-free Python CLI for GitHub Trending · Curated picks in <a href="awesome-picks.md">awesome-picks.md</a>
+  A dependency-free Python CLI for GitHub Trending · Curated picks in <a href="awesome-picks.md">awesome-picks.md</a><br/>
+  📚 <a href="https://github.com/imissshe/daily-learning">daily-learning</a>：每天一道算法题或一篇学习笔记 · One algorithm problem or one study note per day
 </p>
 
 ---

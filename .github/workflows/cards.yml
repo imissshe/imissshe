@@ -41,6 +41,13 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=gh-trending-digest&theme=tokyonight&hide_border=true
           path: profile/pin-gh-trending-digest.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Daily learning pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=daily-learning&theme=tokyonight&hide_border=true
+          path: profile/pin-daily-learning.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards if changed
         run: |
           git config user.name "github-actions[bot]"
