@@ -1,0 +1,35 @@
+name: Update trending section
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily 01:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-trending
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install gh-trending-digest
+        run: pip install git+https://github.com/imissshe/gh-trending-digest
+      - name: Rewrite TRENDING section
+        run: python scripts/update_trending.py --readme README.md -n 10
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "chore: update today's trending $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
