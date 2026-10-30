@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… | TypeScript | +1,068 |
-| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | - | +2,139 |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | +1,095 |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | +2,371 |
-| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM … | Rust | +117 |
-| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | CSS | +2,110 |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with cr… | Rust | +1,472 |
-| 8 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 A… | TypeScript | +728 |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok … | TypeScript | +1,054 |
-| 10 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网… | JavaScript | +1,616 |
+| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | +1,930 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | +1,034 |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with cr… | Rust | +2,870 |
+| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises itself around the way you wo… | TypeScript | +1,117 |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that bots can use | TypeScript | +1,199 |
+| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok … | TypeScript | +709 |
+| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | - | +1,187 |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +336 |
+| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their own: a browser, files and tool… | TypeScript | +247 |
+| 10 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… | Shell | +353 |
 
-<sub>🕒 更新于 Updated: 2026-10-29 12:25 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-10-30 14:54 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
