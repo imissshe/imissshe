@@ -3,6 +3,20 @@
 精选的热门、增长快、真正好用的开源项目（整理于 2026-10-28，star 数为当时数据）。
 Hand-picked trending, fast-rising and genuinely useful open-source projects (snapshot 2026-10-28).
 
+## 🆕 2026-11-02 新增 / New this week
+
+| 项目 Project | ⭐ Stars | 简介 |
+|---|---:|---|
+| [anthropics/skills](https://github.com/anthropics/skills) | 186.7k | Anthropic 官方的 Agent Skills 示例与规范仓库 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 310.0k | Matt Pocock 分享的工程向 AI 编程技能合集 |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 40.9k | t3 团队出品的 AI 编程智能体图形界面客户端 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 9.9k | 管理 Git worktree 的命令行工具，方便多个 AI 智能体并行开发 |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 63.3k | GPU 加速、原生界面的跨平台高性能终端 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 92.5k | 从单次请求到大规模爬取都能搞定的 Python 网页抓取框架 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 25.0k | 用 AI 根据文字描述设计实体产品的 CAD 模型 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 119.9k | 多智能体大模型金融交易研究框架 |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 59.7k | Karpathy 的极简全流程 ChatGPT 训练教程项目，约 100 美元可复现 |
+
 ## 🤖 AI 编程与智能体 / AI coding & agents
 
 | 项目 Project | ⭐ Stars | 简介 |
