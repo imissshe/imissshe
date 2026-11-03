@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,526 |
-| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | Zig | +825 |
-| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | +630 |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | - | TypeScript | +3,094 |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that bots can use | TypeScript | +922 |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | +324 |
-| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offl… | Rust | +339 |
-| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… | Shell | +967 |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | Python | +101 |
-| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK i… | Python | +446 |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | +2,275 |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,803 |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… | Python | +706 |
+| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that d… | C++ | +509 |
+| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… | Shell | +1,379 |
+| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desktop. Run massive models local… | Python | +653 |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | - | TypeScript | +3,229 |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | +857 |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | Python | +412 |
+| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed… | C | +675 |
 
-<sub>🕒 更新于 Updated: 2026-11-02 15:29 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-11-03 15:44 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
