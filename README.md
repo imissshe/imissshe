@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | +2,275 |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,803 |
-| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a ful… | Python | +706 |
-| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that d… | C++ | +509 |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a co… | Shell | +1,379 |
-| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desktop. Run massive models local… | Python | +653 |
-| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | - | TypeScript | +3,229 |
-| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | +857 |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | Python | +412 |
-| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed… | C | +675 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,139 |
+| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | +3,791 |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | +438 |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vu… | C | +802 |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | +1,164 |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycop… | Python | +701 |
+| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | - | TypeScript | +91 |
+| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | +482 |
+| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Python | +228 |
+| 10 | [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | Rust | +410 |
 
-<sub>🕒 更新于 Updated: 2026-11-03 15:44 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-11-04 15:22 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
