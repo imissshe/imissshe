@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,139 |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | +3,791 |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | +438 |
-| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vu… | C | +802 |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | +1,164 |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycop… | Python | +701 |
-| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | - | TypeScript | +91 |
-| 8 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | +482 |
-| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Python | +228 |
-| 10 | [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | Rust | +410 |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… | Python | +2,050 |
+| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | +531 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | +1,379 |
+| 4 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | +1,090 |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does … | TypeScript | +1,172 |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | +2,470 |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | Python | +808 |
+| 8 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | Python | +280 |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with … | Python | +617 |
+| 10 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer… | TypeScript | +290 |
 
-<sub>🕒 更新于 Updated: 2026-11-04 15:22 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-11-05 15:48 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
