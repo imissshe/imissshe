@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from th… | Rust | +306 |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers o… | Python | +2,015 |
-| 3 | [rails/rails](https://github.com/rails/rails) | Ruby on Rails | Ruby | +142 |
-| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | +37 |
-| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | +192 |
-| 6 | [react/react](https://github.com/react/react) | The library for web and native user interfaces. | JavaScript | +248 |
-| 7 | [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | TypeScript | +135 |
-| 8 | [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | PHP | +128 |
-| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | Go | +148 |
-| 10 | [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | +534 |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Rust | +190 |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine… | JavaScript | +2,085 |
+| 3 | [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | +443 |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | +1,100 |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | +390 |
+| 6 | [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and agent ready | TypeScript | +96 |
+| 7 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | Go | +322 |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | +1,766 |
+| 9 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that bots can use | TypeScript | +1,955 |
+| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | +350 |
 
-<sub>🕒 更新于 Updated: 2026-11-07 14:55 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-11-08 15:03 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
