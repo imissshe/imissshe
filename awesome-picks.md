@@ -3,6 +3,19 @@
 精选的热门、增长快、真正好用的开源项目（整理于 2026-10-28，star 数为当时数据）。
 Hand-picked trending, fast-rising and genuinely useful open-source projects (snapshot 2026-10-28).
 
+## 🆕 2026-11-09 新增 / New this week
+
+| 项目 Project | ⭐ Stars | 简介 |
+|---|---:|---|
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 48.3k | Vercel 出品、专给 AI 智能体用的浏览器自动化命令行工具 |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 15.7k | 老牌开源 AI 代码审查工具，自动评审和描述 PR |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 19.9k | Anthropic 官方的 Claude 应用快速上手示例项目合集 |
+| [meta/astryx](https://github.com/meta/astryx) | 19.1k | Meta 开源、可完全定制且适配 AI 智能体的设计系统 |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 10.9k | NVIDIA 的 Python 框架，在数据之上构建基于图的语义推理层 |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 5.7k | 让 Claude、ChatGPT 等 AI 助手配置和自动化 Home Assistant 的 MCP 服务 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 68.6k | 大模型驱动的多市场股票分析系统，含行情、新闻、看板和定时推送 |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 16.8k | DeepMind 维护的通用多关节接触物理仿真引擎，机器人与强化学习常用 |
+
 ## 🆕 2026-11-02 新增 / New this week
 
 | 项目 Project | ⭐ Stars | 简介 |
