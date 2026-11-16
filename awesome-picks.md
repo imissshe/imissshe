@@ -3,6 +3,19 @@
 精选的热门、增长快、真正好用的开源项目（整理于 2026-10-28，star 数为当时数据）。
 Hand-picked trending, fast-rising and genuinely useful open-source projects (snapshot 2026-10-28).
 
+## 🆕 2026-11-16 新增 / New this week
+
+| 项目 Project | ⭐ Stars | 简介 |
+|---|---:|---|
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 57.5k | Chrome 官方的 DevTools MCP 服务，让编程智能体能调试和检查网页 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 52.8k | 阿里开源的代码审查工具，确定性流水线+大模型智能体，行级精准评论 |
+| [openai/codex-security](https://github.com/openai/codex-security) | 13.7k | OpenAI 的 Codex 安全命令行与 SDK，用于发现、验证并修复安全漏洞 |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30.6k | 通义千问团队开源的终端 AI 编程智能体 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 118.2k | Addy Osmani 整理的生产级工程技能合集，供 AI 编程智能体使用 |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 12.4k | 与 AI 智能体协作的工作台：规划、批注、审代码，一键把反馈发回智能体 |
+| [we-promise/sure](https://github.com/we-promise/sure) | 15.9k | 开源、可自托管的个人理财记账应用 |
+| [dream-num/univer](https://github.com/dream-num/univer) | 27.6k | 开源办公套件 SDK，可在应用里嵌入表格、文档的编辑、计算与协作 |
+
 ## 🆕 2026-11-09 新增 / New this week
 
 | 项目 Project | ⭐ Stars | 简介 |
