@@ -60,18 +60,18 @@
 
 | # | 项目 Repository | 简介 Description | 语言 Lang | ⭐ 今日 Today |
 |:-:|:--|:--|:-:|--:|
-| 1 | [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | TypeScript | +314 |
-| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | +389 |
-| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… | Python | +1,059 |
-| 4 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Modern Docker Management, Designed for Everyone | Go | +547 |
-| 5 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, secur… | Python | +312 |
-| 6 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js vers… | Shell | +237 |
-| 7 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | +258 |
-| 8 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | PaperOrchestra is a multi-agent framework for automated AI research paper writing. | Python | +1,524 |
-| 9 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows… | TypeScript | +365 |
-| 10 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | JavaScript | +692 |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 sla… | Python | +1,349 |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | +2,028 |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | +898 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. | Python | +238 |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | TypeScript | +384 |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provid… | TypeScript | +825 |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. | C | +73 |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | C++ | +246 |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q… | HTML | +271 |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and t… | Python | +954 |
 
-<sub>🕒 更新于 Updated: 2026-11-19 16:32 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
+<sub>🕒 更新于 Updated: 2026-11-20 16:14 (UTC+8) · 数据来源 Source: [github.com/trending](https://github.com/trending) · 由 [gh-trending-digest](https://github.com/imissshe/gh-trending-digest) 自动生成</sub>
 
 <!-- TRENDING:END -->
 
